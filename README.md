@@ -20,7 +20,7 @@ discord.post('/channels/123/messages')
   .end();
 ```
 
-You can make any type of request (GET, POST, DELETE, etc.), and each corresponding method returns a [superagent](https://github.com/visionmedia/superagent) request object.
+You can make any type of request (GET, POST, DELETE, etc.), and each corresponding method returns a [superagent](https://github.com/visionmedia/superagent) request object. Learn about superagent requests [here](https://visionmedia.github.io/superagent/#request-basics).
 
 You can also access the [Gateway WebSocket API](https://discordapp.com/developers/docs/reference#gateway-websocket-api).
 
