@@ -1,5 +1,15 @@
 # easy-discord
 
+An easy-to-use Discord client.
+
+## Installation
+
+```
+npm install easy-discord
+```
+
+## Usage
+
 Easily make requests to the [Discord HTTP API](https://discordapp.com/developers/docs/reference#http-api).
 
 ```js
