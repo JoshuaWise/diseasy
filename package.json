@@ -1,0 +1,35 @@
+{
+  "name": "easy-discord",
+  "version": "0.1.0",
+  "description": "An easy-to-use Discord client",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaWise/easy-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "client",
+    "websockets"
+  ],
+  "author": "Joshua Wise <joshuathomaswise@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshuaWise/easy-discord/issues"
+  },
+  "homepage": "https://github.com/JoshuaWise/easy-discord#readme",
+  "dependencies": {
+    "superagent": "^4.0.0-beta.5",
+    "wise-promise": "^1.1.0",
+    "wise-river": "^1.0.0",
+    "ws": "^6.1.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.0",
+    "wise-inspection": "^1.0.0"
+  }
+}

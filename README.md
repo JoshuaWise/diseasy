@@ -1,2 +1,3 @@
 # easy-discord
-An easy-to-use Discord client
+
+An easy-to-use Discord client.
