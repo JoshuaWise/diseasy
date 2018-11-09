@@ -1,6 +1,6 @@
 {
   "name": "diseasy",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "An easy-to-use Discord client",
   "main": "lib/index.js",
   "scripts": {
