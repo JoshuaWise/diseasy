@@ -1,11 +1,11 @@
-# easy-discord
+# diseasy
 
 An easy-to-use Discord client.
 
 ## Installation
 
 ```
-npm install easy-discord
+npm install diseasy
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm install easy-discord
 Easily make requests to the [Discord HTTP API](https://discordapp.com/developers/docs/reference#http-api).
 
 ```js
-const discord = require('easy-discord')({ token: 'xyz' });
+const discord = require('diseasy')({ token: 'xyz' });
 
 discord.post('/channels/123/messages')
 	.send({ content: 'Hello world!' })

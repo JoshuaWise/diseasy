@@ -1,5 +1,5 @@
 {
-  "name": "easy-discord",
+  "name": "diseasy",
   "version": "0.2.1",
   "description": "An easy-to-use Discord client",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoshuaWise/easy-discord.git"
+    "url": "git+https://github.com/JoshuaWise/diseasy.git"
   },
   "keywords": [
     "discord",
@@ -19,9 +19,9 @@
   "author": "Joshua Wise <joshuathomaswise@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JoshuaWise/easy-discord/issues"
+    "url": "https://github.com/JoshuaWise/diseasy/issues"
   },
-  "homepage": "https://github.com/JoshuaWise/easy-discord#readme",
+  "homepage": "https://github.com/JoshuaWise/diseasy#readme",
   "dependencies": {
     "superagent": "^4.0.0-beta.5",
     "wise-promise": "^1.1.0",
